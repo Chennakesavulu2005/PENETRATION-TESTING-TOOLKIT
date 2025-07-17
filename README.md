@@ -1,3 +1,17 @@
+#  **PENETRATION TESTINT TOOLKIT**
+
+**Company:** CODTECH IT SOLUTIONS   
+
+**Name:** Konatham Chennakesavulu 
+
+**Intern ID:** CT06DH1266 
+
+**Domain:** Cyber Security & Ethical Hacking  
+
+**Duration:** 6 Weeks  
+
+**Mentor:** Neela Santosh
+
 # Penetration Testing Toolkit
 
 A comprehensive cybersecurity tool for automated security assessments and vulnerability scanning.
